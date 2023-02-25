@@ -1,0 +1,7 @@
+LENDING_LINK = 'http://test.exlab.team/#'
+REGISTRATION_BOT = 'https://t.me/ExLab_registration_bot'
+LINK_EX_BOOSTY = 'https://boosty.to/exlab_startup'
+URL_LNKD = 'https://www.linkedin.com/company/exlab-start-up/mycompany/'
+URL_INST = 'https://www.instagram.com/exlab_startup/'
+URL_TLGR = 'https://t.me/ExLabChannel'
+URL_YTB = 'https://www.youtube.com/channel/UC-TAnVYVN7qg5dgsYQJkuvA'
